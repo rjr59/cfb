@@ -3048,7 +3048,7 @@
         },
         {
           "abbreviation": "GT",
-          "prestige": "50",
+          "prestige": "60",
           "hexColor": "#000080",
           "offCoordinator": {
             "contractLength": "30",
@@ -3089,7 +3089,7 @@
             "homeState": "Georgia",
             "ratPot": "99",
             "hometown": "Atlanta",
-            "ratTalent": "70",
+            "ratTalent": "99",
             "baselinePrestige": "99",
             "name": "Rich Rosetti",
             "contractYear": "0"
